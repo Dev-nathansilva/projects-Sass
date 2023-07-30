@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" />  
-   <img src="./img/nome1.png" height="80px" />
-   <img src="./img/logo1.png" height="50px" />
+   <img src="./01-Gallery/img/nome1.png" height="80px" />
+   <img src="./01-Gallery/img/logo1.png" height="50px" />
 </p>
 <p align="center">Aplicação desenvolvida com conhecimentos adquiridos com o SASS</p>
 
