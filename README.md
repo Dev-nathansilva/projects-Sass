@@ -52,7 +52,7 @@ Feito por Nathan Silva 👋🏽 Entre em contato!
   </tr>
 </table>
 
-<p align="center">Aplicação desenvolvida com conhecimentos adquiridos com o SASS</p>
+<p align="center">WiseTech desenvolvida com conhecimentos adquiridos com o SASS</p>
 
 
 
@@ -63,9 +63,9 @@ Feito por Nathan Silva 👋🏽 Entre em contato!
 
 ---
 
-<img src="./01-Gallery/img/galeria-sass.png" alt="imagem do site de galeria">
+<img src="./02-WiseTech/img/WiseTech.png" alt="imagem do site da agência WiseTech">
 <p align="center"> 
-   <a href="galleria-sass-delta.vercel.app" target="_blank">VISUALIZAR PROJETO</a>
+   <a href="https://wisetech.vercel.app/" target="_blank">VISUALIZAR PROJETO</a>
 </p>
 
 ## Sobre o projeto
