@@ -41,12 +41,19 @@ Feito por Nathan Silva 👋🏽 Entre em contato!
 
 
 <h1 align="center"><em>Projeto 2</em></h1>
-<p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" />  
-   <img src="./01-Gallery/img/nome1.png" height="80px" />
-   <img src="./01-Gallery/img/logo1.png" height="50px" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./02-WiseTech/img/cerebro1.png" height="60px" />
+    </td>
+    <td align="center">
+      <img src="./02-WiseTech/img/logo3.png" height="90px" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">Aplicação desenvolvida com conhecimentos adquiridos com o SASS</p>
+
 
 
 <p align="center">
