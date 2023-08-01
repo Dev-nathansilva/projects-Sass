@@ -1,9 +1,7 @@
 
 <p align="center">
-<a href="sobre-o-projeto-1">Projeto 1 </a> •
-<a href="sobre-o-projeto-2">Projeto 2 </a> •
-<a href="sobre-o-projeto-3">Projeto 3 </a> 
- 
+ <a href="#sobre-o-projeto-1">Sobre o Projeto</a> •
+ <a href="#autor">Autor</a>
 </p>
 
 
