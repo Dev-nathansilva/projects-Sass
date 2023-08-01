@@ -1,11 +1,13 @@
 
 <p align="center">
+  Visualize os projetos concluídos - 
  <a href="#sobre-o-projeto-1">Projeto 1</a> •
  <a href="#sobre-o-projeto-2">Projeto 2</a> •
  <a href="#sobre-o-projeto-3">Projeto 3</a>
  
 </p>
 
+---
 
 
 
