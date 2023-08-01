@@ -1,8 +1,8 @@
 
 <h1 align="center">
-<a href="projeto-1">Projeto 1 </a> •
-<a href="projeto-2">Projeto 2 </a> •
-<a href="projeto-3">Projeto 3 </a> 
+<a href="sobre-o-projeto-1">Projeto 1 </a> •
+<a href="sobre-o-projeto-2">Projeto 2 </a> •
+<a href="sobre-o-projeto-3">Projeto 3 </a> 
  
 </h1>
 
